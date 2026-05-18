@@ -1,4 +1,4 @@
-# devops-capstone-project teste teste
+# devops-capstone-project
 
 Criação do projecto final do curso IBM DevOps and Software Engineering
 
