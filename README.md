@@ -1,6 +1,6 @@
 # devops-capstone-project
 
-![Build Status](https://github.com/PedroEJKondo/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+![Build Status](https://github.com/PedroEJKondo/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg) 
 
 Criação do projecto final do curso IBM DevOps and Software Engineering
 
