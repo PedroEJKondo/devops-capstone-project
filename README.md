@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/PedroEJKondo/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 Criação do projecto final do curso IBM DevOps and Software Engineering
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
